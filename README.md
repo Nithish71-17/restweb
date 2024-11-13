@@ -1,4 +1,4 @@
-                 # Ex.06 Restaurant Website
+## Ex.06 Restaurant Website
 ## Date:10-11-2024
 
 ## AIM:
